@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is **Misi** [[ ˈmiʃi]](http://ipa-reader.xyz/?text=%CB%88mi%CA%83i&voice=Joey) (he/him) a DevOps Engineer. I am also a hardcore Apple & Nintendo fanboy. 🤠
+My name is **Misi** [[ ˈmiʃi]](http://ipa-reader.xyz/?text=%CB%88mi%CA%83i&voice=Joey) (he/him) a Senior DevOps Engineer. I am also a hardcore Apple & Nintendo fanboy. 🤠
 
 - ❤️ I'm currently maintaining several open source projects such as [homebridge-rgb-ledstrip](https://github.com/suhajda3/homebridge-rgb-ledstrip), [lightsail-ssl](https://github.com/suhajda3/lightsail-ssl), [serverless-business-card](https://github.com/suhajda3/serverless-business-card), [tech-conferences-hungary](https://github.com/suhajda3/tech-conferences-hungary) and more
 - 👀 I’m interested in the Cloud & Serverless
