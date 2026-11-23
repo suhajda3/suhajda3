@@ -2,7 +2,7 @@
 
 My name is Misi [[ˈmiʃi]](http://ipa-reader.xyz/?text=%CB%88mi%CA%83i&voice=Joey) (he/him), a **Principal Cloud Architect**. I'm also a hardcore Apple & Nintendo fanboy. 🤠
 
-I build AWS and agentic AI solutions for enterprise clients. Outside of client work, I lead the AWS User Group Budapest, organize AWS Community Day CEE, and speak at conferences around the world.
+I build AWS and Agentic AI solutions for enterprise clients. Outside of client work, I lead the AWS User Group Budapest, organize AWS Community Day CEE, and speak at conferences around the world.
 
 ### 🛠️ Tools I've built for tech communities
 - [session-rating](https://github.com/suhajda3/session-rating): serverless session rating for conferences & meetups
